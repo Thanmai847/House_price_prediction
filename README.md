@@ -2,16 +2,16 @@
 
 ## 📌 Overview
 This project predicts house prices based on property features using **Linear Regression**.  
-It demonstrates the full machine learning workflow — from **data preprocessing** to **model evaluation** — including visualizations and a ready-to-use saved model.
+It demonstrates the complete machine learning workflow — from **data preprocessing** to **model evaluation** — including visualizations and a ready-to-use saved model.
 
 ---
 
 ## 📊 Dataset
 The dataset includes:
-- `Avg. Area Income` – Average income of residents in the area
-- `Avg. Area Number of Rooms` – Average number of rooms per house
-- `Avg. Area Number of Bedrooms` – Average number of bedrooms per house
-- `Price` – Target variable (house selling price)
+- **Avg. Area Income** – Average income of residents in the area  
+- **Avg. Area Number of Rooms** – Average number of rooms per house  
+- **Avg. Area Number of Bedrooms** – Average number of bedrooms per house  
+- **Price** – Target variable (house selling price)
 
 📂 **Source:** [USA Housing Dataset](https://github.com/mukulsinghal001/USA-Housing-Price-Prediction/blob/main/USA_Housing.csv)
 
@@ -32,3 +32,4 @@ The dataset includes:
 ---
 
 ## 📂 Project Structure
+
